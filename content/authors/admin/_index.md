@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Deeksha Doddahonnaiah"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,44 +9,40 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "MSCS Gradute Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Northeastern University", url = "https://www.khoury.northeastern.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
-
+bio = "Aspiring Data Scientist"
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Machine learning",
+  "Computational Biology",
+  "Data Mining",
+  "Algorithms"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+#user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master of Science in Computer Science"
+  institution = "Northeastern University"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BE in Computer Science"
+  institution = "Sapthagiri College of Engineering"
+  year = 2016
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,9 +50,9 @@ user_groups = ["Researchers", "Visitors"]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/deeksha-d"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
@@ -64,14 +60,9 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/deekshad"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +73,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi! I'm Deeksha. Currently pursuing my Masters in Northeastern University. blah.. blah..
